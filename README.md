@@ -8,6 +8,4 @@ It includes of course HTML5, CSS3 and Vanilla Javascript.
 
 We used the class constructor for this project for practicing purpose.
 
-Github pages link: https://tekko2000.github.io/Google_Keep_Clone/
-
 I hope you will enjoy it.
